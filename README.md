@@ -104,7 +104,7 @@ Credit card fraud is a major issue in the financial industry. The dataset is hig
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/knagaraj-2106/Credit-Card-Fraud-Detection-using-Logistic-Regression/tree/main
+https://github.com/knagaraj-2106/Credit-Card-Fraud-Detection-using-Logistic-Regression/tree/main
 ```
 
 ### 2. Navigate to project folder
